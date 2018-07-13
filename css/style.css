@@ -1,0 +1,23 @@
+.click {
+    float: left;
+}
+
+.oracal {
+    float: left;
+}
+
+.together {
+    min-width: 231px;
+}
+
+.color1 {
+    background-color: chartreuse
+}
+
+.color2 {
+    background-color: aqua;
+}
+
+.color3 {
+    background-color: blueviolet;
+}
